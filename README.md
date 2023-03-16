@@ -3,3 +3,7 @@ Implementation of a simple program to do basic operations such as addition,multi
 
 # Instructions to run the code
 The command to execute the file is:
+
+```
+python3
+```
